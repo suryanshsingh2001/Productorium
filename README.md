@@ -7,7 +7,8 @@ In its latest evolution, Productorium now incorporates powerful AI functionality
 Join us on this exciting journey and explore the endless possibilities of 3D product customization with AI at Productorium.
 
 See the video demo here 
-[Youtube Video](https://youtu.be/TswOa5umuNo)
+
+[Demo](https://youtu.be/TswOa5umuNo)
 
 ## Features
 
