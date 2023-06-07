@@ -1,6 +1,6 @@
 # Productorium
 
-Productorium is an innovative AI-aided 3D product website that brings customization to new heights. With a strong foundation in three.js, I have honed my skills in manipulating 3D models, animations, and transitions to create captivating visual experiences.
+Productorium is an innovative AI-aided 3D product website that brings customization to new heights. With a strong foundation in **three.js**, I have honed my skills in manipulating 3D models, animations, and transitions to create captivating visual experiences.
 
 In its latest evolution, Productorium now incorporates powerful AI functionality through the integration of DALLE. This integration takes personalized design to a whole new level. Users can submit prompts and witness the AI's magic as it generates inspiring and innovative logo textures. It's an incredible opportunity to harness the potential of AI in bringing your product visions to life.
 
