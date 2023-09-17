@@ -1,6 +1,9 @@
 # Productorium
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
+
+🔗[Live Link](https://productorium.vercel.app/)
+<br><br>
 Productorium is an innovative AI-aided 3D product website that brings customization to new heights. With a strong foundation in **three.js**, I have honed my skills in manipulating 3D models, animations, and transitions to create captivating visual experiences.
 
 In its latest evolution, Productorium now incorporates powerful AI functionality through the integration of DALLE. This integration takes personalized design to a whole new level. Users can submit prompts and witness the AI's magic as it generates inspiring and innovative logo textures. It's an incredible opportunity to harness the potential of AI in bringing your product visions to life.
