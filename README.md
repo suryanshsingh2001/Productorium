@@ -1,7 +1,9 @@
 # Productorium
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+>Please be aware that the AI functionality on the deployed website relies on OpenAI services. In some cases, the AI features may not work as expected if there are low or no OpenAI credits available.
 
+<br><br>
 🔗[Live Link](https://productorium.vercel.app/)
 <br><br>
 Productorium is an innovative AI-aided 3D product website that brings customization to new heights. With a strong foundation in **three.js**, I have honed my skills in manipulating 3D models, animations, and transitions to create captivating visual experiences.
